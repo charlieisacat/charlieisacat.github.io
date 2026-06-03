@@ -11,7 +11,11 @@ Hi! I am Xiaoyu Hao, a final-year Ph.D. student in Computer Science and Technolo
 I received my Bachelor’s degree in Software Engineering from University of Electronic Science and Technology of China (UESTC). 
 My research interests include **Computer Architecture**, **Processor (CPU/NPU) Performance Modeling**, and **High-Performance Computing**.
 
-I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me.
+
+```markdown
+> [!NOTE]
+> **Job Seeking**
+> I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me.
 
 **Email: haoxiaoyu@mail.ustc.edu.cn**
 
