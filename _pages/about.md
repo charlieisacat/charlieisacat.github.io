@@ -17,8 +17,7 @@ My research interests include **Computer Architecture**, **Processor (CPU/NPU) P
 
 <div style="padding: 15px; border-left: 5px solid #007acc; background-color: #f0f7ff; border-radius: 4px; color: #333;">
     <strong>💡 Job Seeking:</strong><br>
-    I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me. Thank you!
-
+    I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me. Thank you!<br><br>
     我正在寻找业界的工作，如果您对我的研究方向感兴趣请联系我，谢谢!
 </div>
 
