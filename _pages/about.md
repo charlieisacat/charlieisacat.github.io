@@ -27,11 +27,11 @@ You can find my Chinese CV here: [Xiaoyu Hao's CV](../assets/hxy_cv.pdf)
 
 Selected Publications
 ---
-1. (DATE'26) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Jun Shi, Junshi Chen, and Hong An. 2026. CISim: ISA-Agnostic Custom Instruction Simulation for General-Purpose Processor. In Design, Automation and Test in Europe Conference (DATE).
+1. (DATE'26) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Jun Shi, Junshi Chen, and Hong An. 2026. CISim: ISA-Agnostic Custom Instruction Simulation for General-Purpose Processor. In Design, Automation and Test in Europe Conference (DATE). [pdf](../assets/CISim.pdf)
 
-2. (ICS'25) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Qingcai Jiang, Jun Shi, Junshi Chen, Hong An, Xulong Tang, Hao Shu, and Honghui Yuan. 2025. CIExplorer: Microarchitecture-aware exploration for tightly integrated custom instruction. In Proceedings of the 39th ACM International Conference on Supercomputing (ICS).
+2. (ICS'25) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Qingcai Jiang, Jun Shi, Junshi Chen, Hong An, Xulong Tang, Hao Shu, and Honghui Yuan. 2025. CIExplorer: Microarchitecture-aware exploration for tightly integrated custom instruction. In Proceedings of the 39th ACM International Conference on Supercomputing (ICS). [pdf](../assets/CIExplorer.pdf)
 
-3. (TPDS'22) **Xiaoyu Hao**, Tao Fang, Junshi Chen, Jun Gu, Jiawang Feng, Hong An, and Chun Zhao. swMPAS-A: Scaling mpas-a to 39 million heterogeneous cores on the new generation sunway supercomputer. 2022. IEEE Transactions on Parallel and Distributed Systems (TPDS).
+3. (TPDS'22) **Xiaoyu Hao**, Tao Fang, Junshi Chen, Jun Gu, Jiawang Feng, Hong An, and Chun Zhao. swMPAS-A: Scaling mpas-a to 39 million heterogeneous cores on the new generation sunway supercomputer. 2022. IEEE Transactions on Parallel and Distributed Systems (TPDS). [pdf](../assets/swMPAS-A.pdf)
 
 4. (Science Bulletin'22) Jun Gu\*, Jiawang Feng\*, **Xiaoyu Hao\***, Tao Fang\*, Chun Zhao, Hong An, Junshi Chen, Mingyue Xu, Jian Li, Wenting Han, et al. 2022. Establishing a non-hydrostatic global atmospheric modeling system at 3-km horizontal resolution with aerosol feedbacks on the sunway supercomputer of china. Science Bulletin.
 
