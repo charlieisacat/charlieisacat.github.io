@@ -14,7 +14,7 @@ My research interests include **Computer Architecture**, **Processor (CPU/NPU) P
 
 <div style="padding: 15px; border-left: 5px solid #007acc; background-color: #f0f7ff; border-radius: 4px; color: #333;">
     <strong>💡 Job Seeking:</strong><br>
-    I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me.
+    I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me. You can find my Chinese CV here: [hxy'cv](../assets/hxy_cv.pdf)
 </div>
 
 **Email: haoxiaoyu@mail.ustc.edu.cn**
