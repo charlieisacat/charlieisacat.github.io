@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+**Email: haoxiaoyu@mail.ustc.edu.cn**
+
+
 Hi! I am Xiaoyu Hao, a final-year Ph.D. student in Computer Science and Technology at the University of Science and Technology of China (USTC), advised by Prof. Hong An. 
 I received my Bachelor’s degree in Software Engineering from University of Electronic Science and Technology of China (UESTC) in 2018. 
 My research interests include **Computer Architecture**, **Processor (CPU/NPU) Performance Modeling**, and **High-Performance Computing**.
@@ -14,10 +17,8 @@ My research interests include **Computer Architecture**, **Processor (CPU/NPU) P
 
 <div style="padding: 15px; border-left: 5px solid #007acc; background-color: #f0f7ff; border-radius: 4px; color: #333;">
     <strong>💡 Job Seeking:</strong><br>
-    I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me. You can find my Chinese CV here: [hxy'cv](../assets/hxy_cv.pdf)
+    I am actively seeking job opportunities in the industry. If my research and experience align with your team, please contact me. You can find my Chinese CV here: [Xiaoyu Hao's CV](../assets/hxy_cv.pdf)
 </div>
-
-**Email: haoxiaoyu@mail.ustc.edu.cn**
 
 Selected Publications
 ---
