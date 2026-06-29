@@ -27,15 +27,17 @@ You can find my Chinese CV here: [Xiaoyu Hao's CV](../assets/hxy_cv.pdf)
 
 Selected Publications
 ---
-1. (DATE'26) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Jun Shi, Junshi Chen, and Hong An. 2026. CISim: ISA-Agnostic Custom Instruction Simulation for General-Purpose Processor. In Design, Automation and Test in Europe Conference (DATE). [pdf](../assets/CISim.pdf)
+1. (Preprint) **Xiaoyu Hao**, Sen Zhang, Junshi Chen, and Hong An. MILES: Instruction-Level Simulation of Dense and Sparse Matrix Engines in CPUs with A Unified Performance Model. [pdf](../assets/miles.pdf)
 
-2. (ICS'25) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Qingcai Jiang, Jun Shi, Junshi Chen, Hong An, Xulong Tang, Hao Shu, and Honghui Yuan. 2025. CIExplorer: Microarchitecture-aware exploration for tightly integrated custom instruction. In Proceedings of the 39th ACM International Conference on Supercomputing (ICS). [pdf](../assets/CIExplorer.pdf)
+2. (DATE'26) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Jun Shi, Junshi Chen, and Hong An. 2026. CISim: ISA-Agnostic Custom Instruction Simulation for General-Purpose Processor. In Design, Automation and Test in Europe Conference (DATE). [pdf](../assets/CISim.pdf)
 
-3. (TPDS'22) **Xiaoyu Hao**, Tao Fang, Junshi Chen, Jun Gu, Jiawang Feng, Hong An, and Chun Zhao. swMPAS-A: Scaling mpas-a to 39 million heterogeneous cores on the new generation sunway supercomputer. 2022. IEEE Transactions on Parallel and Distributed Systems (TPDS). [pdf](../assets/swMPAS-A.pdf)
+3. (ICS'25) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Qingcai Jiang, Jun Shi, Junshi Chen, Hong An, Xulong Tang, Hao Shu, and Honghui Yuan. 2025. CIExplorer: Microarchitecture-aware exploration for tightly integrated custom instruction. In Proceedings of the 39th ACM International Conference on Supercomputing (ICS). [pdf](../assets/CIExplorer.pdf)
 
-4. (Science Bulletin'22) Jun Gu\*, Jiawang Feng\*, **Xiaoyu Hao\***, Tao Fang\*, Chun Zhao, Hong An, Junshi Chen, Mingyue Xu, Jian Li, Wenting Han, et al. 2022. Establishing a non-hydrostatic global atmospheric modeling system at 3-km horizontal resolution with aerosol feedbacks on the sunway supercomputer of china. Science Bulletin.
+4. (TPDS'22) **Xiaoyu Hao**, Tao Fang, Junshi Chen, Jun Gu, Jiawang Feng, Hong An, and Chun Zhao. swMPAS-A: Scaling mpas-a to 39 million heterogeneous cores on the new generation sunway supercomputer. 2022. IEEE Transactions on Parallel and Distributed Systems (TPDS). [pdf](../assets/swMPAS-A.pdf)
 
-5. (JIG'20) **Xiaoyu Hao**, Junfeng Xiong, Xudong Xue, Jun Shi, Ke Wen, Wenting Han, et al. 2020. 3D U-Net with Dual Attention Mechanism for Lung Tumor Segmentation. 2020. Journal of Image and Graphic (JIG).
+5. (Science Bulletin'22) Jun Gu\*, Jiawang Feng\*, **Xiaoyu Hao\***, Tao Fang\*, Chun Zhao, Hong An, Junshi Chen, Mingyue Xu, Jian Li, Wenting Han, et al. 2022. Establishing a non-hydrostatic global atmospheric modeling system at 3-km horizontal resolution with aerosol feedbacks on the sunway supercomputer of china. Science Bulletin.
+
+6. (JIG'20) **Xiaoyu Hao**, Junfeng Xiong, Xudong Xue, Jun Shi, Ke Wen, Wenting Han, et al. 2020. 3D U-Net with Dual Attention Mechanism for Lung Tumor Segmentation. 2020. Journal of Image and Graphic (JIG).
 
 
 Competitions and Awards
@@ -60,4 +62,4 @@ Research Projects
 
 
 
-*Last Modified: 2026.06.03*
+*Last Modified: 2026.06.29*
