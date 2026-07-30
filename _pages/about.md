@@ -27,7 +27,7 @@ You can find my Chinese CV here: [Xiaoyu Hao's CV](../assets/hxy_cv.pdf)
 
 Selected Publications
 ---
-1. (Preprint) **Xiaoyu Hao**, Sen Zhang, Junshi Chen, and Hong An. MILES: Instruction-Level Simulation of Dense and Sparse Matrix Engines in CPUs with A Unified Performance Model. [pdf](https://doi.org/10.13140/RG.2.2.18706.82888)
+1. (Preprint) **Xiaoyu Hao**, Sen Zhang, Junshi Chen, and Hong An. MILES: Fast and Flexible Instruction-Level Simulation of Dense and Sparse CPU Matrix Engine. [pdf](https://doi.org/10.13140/RG.2.2.18706.82888)
 
 2. (DATE'26) **Xiaoyu Hao**, Sen Zhang, Liang Qiao, Jun Shi, Junshi Chen, and Hong An. 2026. CISim: ISA-Agnostic Custom Instruction Simulation for General-Purpose Processor. In Design, Automation and Test in Europe Conference (DATE). [pdf](../assets/CISim.pdf)
 
@@ -62,4 +62,4 @@ Research Projects
 
 
 
-*Last Modified: 2026.06.29*
+*Last Modified: 2026.07.30*
